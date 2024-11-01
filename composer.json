@@ -1,0 +1,12 @@
+{
+    "name": "alfallouji/dhl_api",
+    "description": "PHP library to communicate with the DHL XML Services.",
+    "license": "LGPL-2.1",
+    "authors": [
+        {
+            "name": "Bashar Al-Fallouji",
+            "email": "bashar@alfallouji.com"
+        }
+    ],
+    "require": {}
+}
