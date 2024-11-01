@@ -4,7 +4,7 @@ require 'vendor/autoload.php';
 use Alfallouji\DHL\DHLTracking;
 
 // Load the configuration
-$config = include '/path/to/your/config.php';
+$config = include "C:\Users\GTS COMPUTERS\Desktop\Dr. Kolapo files\Safzongroupsecurity\config.php";
 
 // Check if the configuration contains DHL credentials
 if (!isset($config['dhl']['id']) || !isset($config['dhl']['pass'])) {
