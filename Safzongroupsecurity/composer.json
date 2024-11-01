@@ -1,0 +1,5 @@
+{
+    "require": {
+        "alfallouji/dhl_api": "^0.2.10"
+    }
+}
