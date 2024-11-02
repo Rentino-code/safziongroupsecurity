@@ -1,6 +1,6 @@
 <?php
 // Load your configuration
-$config = require_once '/home/safzawjz/etc/config/config.php';  // Path on hosting site
+$config = require '/home/safzawjz/etc/config/config.php';  // Path on hosting site
 
 // Include the DHL autoloader or Composer autoload if you used Composer
 require 'vendor/autoload.php';
