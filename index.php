@@ -14,4 +14,3 @@ $config = require(__DIR__ . '/../config/config.php');
 include(__DIR__ . '/security.php');
 
 // Rest of your website code...
-?>
