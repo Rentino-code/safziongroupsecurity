@@ -1,0 +1,13 @@
+Project Structure
+
+/your-website
+├── /config
+│   └── config.php           # Configuration file for database, credentials, etc.
+├── /public
+│   ├── index.php            # Main entry point
+│   ├── security.php         # XSS and SQL injection prevention
+│   ├── htaccess_blocking.htaccess # HTTrack and copying prevention in .htaccess
+│   ├── robots.txt           # Block specific crawlers
+│   ├── js
+│   │   └── security.js      # Script to disable right-click and copy
+└── /vendor                  # For external dependencies, if any

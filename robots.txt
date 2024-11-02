@@ -1,0 +1,8 @@
+# public/robots.txt
+
+User-agent: HTTrack
+Disallow: /
+User-agent: wget
+Disallow: /
+User-agent: curl
+Disallow: /
